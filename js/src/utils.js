@@ -1,4 +1,4 @@
-import XMLHttpRequest from '../node_modules/xmlhttprequest/lib/XMLHttpRequest.js';
+import XMLHttpRequest from '../node_modules/xmlhttprequest/lib/XMLHttpRequest';
 ;
 ;
 export default class Request {
