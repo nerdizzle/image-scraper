@@ -1,0 +1,23 @@
+{
+  "name": "contrib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "package.json": "^2.0.1",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.31"
+  },
+  "description": "",
+  "type": "module"
+}
