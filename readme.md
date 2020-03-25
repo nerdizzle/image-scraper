@@ -11,4 +11,4 @@ ln -s /Users/pygmalion/Repo/ImageScraper/utilities/geckodriver /usr/local/bin
 
 ## npm packages
 
-* npm install selenium-webdriver
+* npm install package.json
